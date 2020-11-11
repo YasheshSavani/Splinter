@@ -1,2 +1,2 @@
-##  Team 13
-#### Group Project - Splinter
+#### Group Project - Splinter - A Bill Splitting app
+## Course: Mobile Computing (Dalhousie University)
